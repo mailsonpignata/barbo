@@ -32,6 +32,8 @@ import BannerWorkWithUs from './bannerWorkWithUs';
 import DescriptionWorkWithUs from './descriptionWorkWithUs';
 import FormWorkWithUs from './formWorkWithUs';
 
+import MenuAdm from './menuAdm';
+
 export {
 
     // Home 
@@ -71,6 +73,9 @@ export {
     // Portal Corretor 
     BannerPortal,
     Login,
+
+    // Menu ADM
+    MenuAdm,
 
     
     
